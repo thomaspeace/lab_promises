@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+ul:first-child {
+    font-weight: normal;
+    font-size: 1rem;
+    margin: 10px;
+}
+
+button{
+    border-radius: 15%;
+    border-color: transparent;
+    color: white;
+    font-size: 1.2rem;
+    background-color: black;
+    font-style: bolder;
+    margin: 10px;
+}
